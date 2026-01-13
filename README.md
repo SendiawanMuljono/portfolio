@@ -1,9 +1,9 @@
 # Welcome to Sendiawan's Portfolio!
 
-This portfolio is made of css, js, and html. Check it out on https://sendiawanmuljono.github.io/!
+This portfolio is made from css, js, and html. Check it out on https://sendiawanmuljono.github.io/!
 
 ### Add new image
-1. All the image is located inside `/assets/img/`
+1. All the image are located inside `/assets/img/`
 2. Choose the right directory inside `/assets/img/` to put your image file
 3. Run `ListImage.bat`, input the folder of images you want it to be listed
 4. Once the program is done, `/assets/img/{inputted folder}-images.json` is generated inside your inputted folder
